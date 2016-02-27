@@ -1,0 +1,28 @@
+name: Arawak Films
+favicon: null
+layout_spectrum: 0.5677945544011891
+typography_spectrum: 0.0847461111843586
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.46716728201135993
+  lightness: 0.4947016751393676
+  saturation: 0.5995582309551537
+  rhythmicContrast: 0.684747654478997
+purpose: []
